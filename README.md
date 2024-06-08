@@ -32,43 +32,43 @@ This Personal Trainer Website is a web platform designed for personalized fitnes
 ## 📸 Screenshots
 
 ### Home Screen
-![Home Screen](ScreenShots/home.png)
+![Home Screen](ScreenShots/homepage.png)
 ### Client Side
 
 ### Client Dashboard
-![Client Dashboard](ScreenShots/dashboard.png)
+![Client Dashboard](ScreenShots/client/dashboard.png)
 
 ### Client Trainers
-![Client Trainers](ScreenShots/mytraniers.png)
+![Client Trainers](ScreenShots/client/mytraniers.png)
 
 ### Find New Trainer
-![Find New Trainer](ScreenShots/newtrainer.png)
+![Find New Trainer](ScreenShots/client/newtrainer.png)
 
 ### Trainer Profile
-![Trainer Profile](ScreenShots/trainerprofile.png)
+![Trainer Profile](ScreenShots/client/trainerprofile.png)
 
 ### Trainer Plans
-![Trainer Plans](ScreenShots/trainerplans.png)
+![Trainer Plans](ScreenShots/client/trainerplans.png)
 
 ### Buy Plan
-![Buy Plan](ScreenShots/buyplans.png)
+![Buy Plan](ScreenShots/client/buyplans.png)
 
 ### Chat Screen
-![Chat Screen](ScreenShots/chatfeature.png)
+![Chat Screen](ScreenShots/client/chatfeature.png)
 
 ### Video Session
-![Video Session](ScreenShots/videoclass.png)
+![Video Session](ScreenShots/client/videoclass.png)
 
 ### Trainer Side
 
 ### Trainer Dashboard
-![Trainer Dashboard](ScreenShots/trainerdashboard.png)
+![Trainer Dashboard](ScreenShots/Trainer/trainerdashboard.png)
 
 ### Plans Management
-![Plans Management](ScreenShots/plans.png)
+![Plans Management](ScreenShots/Trainer/plans.png)
 
 ### Clients Management
-![Clients Management](ScreenShots/clients.png)
+![Clients Management](ScreenShots/Trainer/clients.png)
 
 ### Add Schedule
-![Add Schedule](ScreenShots/add%20schedule.png)
+![Add Schedule](ScreenShots/Trainer/add%20schedule.png)
